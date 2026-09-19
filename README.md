@@ -1,8 +1,8 @@
-# 🌤️ Weather Website
+# 🌤️ Weather Forecast Web Application
 
-A responsive and user-friendly Weather Website built using HTML, CSS, and JavaScript. The application allows users to search for a city and view its current weather information using real-time data from the OpenWeather API.
+A responsive and user-friendly Weather Forecast Web Application built using HTML, CSS, and JavaScript. The application allows users to search for a city and view its current weather information using real-time data from the OpenWeather API.
 
-## 🌍 Live Preview
+
 
 ## 🌐 Live Preview
 
