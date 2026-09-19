@@ -4,7 +4,9 @@ A responsive and user-friendly Weather Website built using HTML, CSS, and JavaSc
 
 ## 🌍 Live Preview
 
-🔗 Live Website: Coming soon — deployment in progress.
+## 🌐 Live Preview
+
+[View Live Weather App](https://riya-weather-app.vercel.app/)
 
 
 
